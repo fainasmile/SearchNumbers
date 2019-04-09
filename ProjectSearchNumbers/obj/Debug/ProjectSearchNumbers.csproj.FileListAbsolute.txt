@@ -1,0 +1,14 @@
+C:\Users\Faina\source\repos\ProjectSearchNumbers\ProjectSearchNumbers\bin\Debug\ProjectSearchNumbers.exe.config
+C:\Users\Faina\source\repos\ProjectSearchNumbers\ProjectSearchNumbers\bin\Debug\ProjectSearchNumbers.exe
+C:\Users\Faina\source\repos\ProjectSearchNumbers\ProjectSearchNumbers\bin\Debug\ProjectSearchNumbers.pdb
+C:\Users\Faina\source\repos\ProjectSearchNumbers\ProjectSearchNumbers\obj\Debug\ProjectSearchNumbers.csprojAssemblyReference.cache
+C:\Users\Faina\source\repos\ProjectSearchNumbers\ProjectSearchNumbers\obj\Debug\ProjectSearchNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Faina\source\repos\ProjectSearchNumbers\ProjectSearchNumbers\obj\Debug\ProjectSearchNumbers.exe
+C:\Users\Faina\source\repos\ProjectSearchNumbers\ProjectSearchNumbers\obj\Debug\ProjectSearchNumbers.pdb
+C:\Users\Faina\source\repos\ProjectSearchNumbersNew\ProjectSearchNumbers\bin\Debug\ProjectSearchNumbers.exe.config
+C:\Users\Faina\source\repos\ProjectSearchNumbersNew\ProjectSearchNumbers\bin\Debug\ProjectSearchNumbers.exe
+C:\Users\Faina\source\repos\ProjectSearchNumbersNew\ProjectSearchNumbers\bin\Debug\ProjectSearchNumbers.pdb
+C:\Users\Faina\source\repos\ProjectSearchNumbersNew\ProjectSearchNumbers\obj\Debug\ProjectSearchNumbers.csprojAssemblyReference.cache
+C:\Users\Faina\source\repos\ProjectSearchNumbersNew\ProjectSearchNumbers\obj\Debug\ProjectSearchNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Faina\source\repos\ProjectSearchNumbersNew\ProjectSearchNumbers\obj\Debug\ProjectSearchNumbers.exe
+C:\Users\Faina\source\repos\ProjectSearchNumbersNew\ProjectSearchNumbers\obj\Debug\ProjectSearchNumbers.pdb
